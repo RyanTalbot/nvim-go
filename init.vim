@@ -1,6 +1,6 @@
 syntax on
 
-set tabstop=4 set softtabstop=4
+set tabstop=4 softtabstop=4
 set shiftwidth=8
 set number
 set expandtab
